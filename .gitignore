@@ -1,0 +1,10 @@
+# Ignore CSV files and raw data
+*.csv
+*.zip
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
